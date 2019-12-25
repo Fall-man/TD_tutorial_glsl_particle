@@ -1,1 +1,3 @@
 # TD_tutorial_glsl_particle
+
+qiitaでToyoshiMoriokaさんが書いていた記事の通りに書いただけです．
